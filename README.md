@@ -19,3 +19,7 @@ Stable release:
 
    Done !!
 
+## Credits 
+
+1. [Xander Cage](https://t.me/xanderzones)
+2. [Mahesh](https://t.me/Ishida0850)
