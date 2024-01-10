@@ -1,26 +1,16 @@
 # SELinux Permissive
 
-This module switches SELinux to permissive mode during boot process.
+This module switches SELinux to Enforcing mode during boot process.
 
-This module intentionally lowers security settings of your
+This module intentionally Enhances security settings of your
 phone. Please, don't use it if you don't know what you are doing.
 
-The module will not work if your kernel compiled with always enforcing config,
-e.g., stock samsung kernels.
+•This module may cause bootloop in some devices, I'm not sure whether it will work in your device or not. This module is only for the roms which have SElinux permissive by default.
 
 ## How to install:
 
 Stable release:
-1. Dowload latest selinux_permissive.zip from releases page
-   https://github.com/evdenis/selinux_permissive/releases
-2. MagiskManager -> Modules + Downloads/selinux_permissive.zip -> Reboot
+1. Dowload latest selinux_enforcing.zip from releases page
+   https://github.com/eternalyogee/selinux_enforcing/releases
 
-Master branch:
-1. git clone https://github.com/evdenis/selinux_permissive
-2. cd selinux_permissive
-3. make install
-
-## Support
-
-- [Telegram](https://t.me/joinchat/GsJfBBaxozXvVkSJhm0IOQ)
-- [XDA Thread](https://forum.xda-developers.com/apps/magisk/module-debugging-modules-adb-root-t4050041)
+## End of file
