@@ -14,9 +14,9 @@ wait_boot_complete
 
 if [ -x "\$(command -v setenforce)" ]
 then
-	setenforce 0
+	setenforce 1
 else
-	echo -n 0 > /sys/fs/selinux/enforce
+	echo -n 1 > /sys/fs/selinux/enforce
 fi
 
 EOF
