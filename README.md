@@ -12,5 +12,3 @@ phone. Please, don't use it if you don't know what you are doing.
 Stable release:
 1. Dowload latest selinux_enforcing.zip from releases page
    https://github.com/eternalyogee/selinux_enforcing/releases
-
-## End of file
