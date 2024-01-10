@@ -1,4 +1,4 @@
-# SELinux Permissive
+# SELinux Enforcing
 
 This module switches SELinux to Enforcing mode during boot process.
 
