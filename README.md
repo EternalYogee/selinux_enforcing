@@ -21,5 +21,6 @@ Stable release:
 
 ## Credits 
 
-1. [Xander Cage](https://t.me/xanderzones)
-2. [Mahesh](https://t.me/Ishida0850)
+1. [Denis Efremov](https://github.com/evdenis/evdenis)
+1. [Xander Cage](https://t.me/xanderzones) for testing in Lavender 
+2. [Mahesh](https://t.me/Ishida0850) for testing in Tulip
